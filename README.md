@@ -24,14 +24,14 @@
 
 ## 📊 GitHub Статистика
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ТВОЙ_НИК&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_НИК&layout=compact&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=aklyue&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aklyue&layout=compact&theme=radical)
 
 ---
 
 ## 🏆 Достижения
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ТВОЙ_НИК&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=aklyue&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
