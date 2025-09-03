@@ -29,12 +29,6 @@
 
 ---
 
-## 🏆 Достижения
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=aklyue&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
 ## ✨ Немного фана
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=36BCF7&lines=Привет!+Я+Frontend+разработчик;Люблю+React,+TypeScript,+Node;Учусь+и+развиваюсь+каждый+день)](https://git.io/typing-svg)
