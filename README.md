@@ -26,6 +26,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=aklyue&show_icons=true&theme=nord)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aklyue&layout=compact&theme=nord)
+![Trophies](https://github-trophies.vercel.app/?username=aklyue&theme=nord&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
