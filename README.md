@@ -24,8 +24,8 @@
 
 ## 📊 GitHub Статистика
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=aklyue&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aklyue&layout=compact&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=aklyue&show_icons=true&theme=nord)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aklyue&layout=compact&theme=nord)
 
 ---
 
