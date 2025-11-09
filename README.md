@@ -24,9 +24,9 @@
 
 ## 📊 GitHub Статистика
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=aklyue&show_icons=true&theme=nord)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aklyue&layout=compact&theme=nord)
-![Trophies](https://github-trophies.vercel.app/?username=aklyue&theme=nord&no-frame=false&no-bg=false&margin-w=4)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=aklyue&show_icons=true&theme=nord&cache_seconds=1800)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aklyue&layout=compact&theme=nord&cache_seconds=1800)
+![Trophies](https://github-trophies.vercel.app/?username=aklyue&theme=nord&no-frame=false&no-bg=false&margin-w=4&cache_seconds=1800)
 
 ---
 
@@ -34,7 +34,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=36BCF7&lines=Привет!+Я+Frontend+разработчик;Люблю+React,+TypeScript,+Node;Учусь+и+развиваюсь+каждый+день)](https://git.io/typing-svg)
 
-![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg&cache_seconds=1800)
 
 ---
 
