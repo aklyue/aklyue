@@ -24,8 +24,12 @@
 
 ## 📊 GitHub Статистика
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=aklyue&show_icons=true&theme=nord&cache_seconds=1800)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aklyue&layout=compact&theme=nord&cache_seconds=1800)
+
+![](./profile-summary-card-output/nord_dark/0-profile-details.svg)
+![](./profile-summary-card-output/nord_dark/1-repos-per-language.svg)
+![](./profile-summary-card-output/nord_dark/2-most-commit-language.svg)
+![](./profile-summary-card-output/nord_dark/3-stats.svg)
+![](./profile-summary-card-output/nord_dark/4-productive-time.svg)
 ![Trophies](https://github-trophies.vercel.app/?username=aklyue&theme=nord&no-frame=false&no-bg=false&margin-w=4&cache_seconds=1800)
 
 ---
