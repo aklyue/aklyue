@@ -44,6 +44,6 @@
 
 ## 📫 Контакты
 - 📧 Email: olegglapshin@gmail.com
-- 🔗 LinkedIn: linkedin.com/in/aklyue
+- 🔗 LinkedIn: [aklyue](https://linkedin.com/in/aklyue)
 - 💬 Telegram: [@yukino_r](https://t.me/yukino_r)  
 - 💼 А ещё здесь в скором времени будет сайт-портфолио.
