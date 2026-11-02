@@ -1,52 +1,80 @@
-# 💻 Engineering Profile  
-I am a Fullstack Software Engineer focused on architecting and developing high-performance, scalable, and user-centric web applications. Specializing in engineering robust frontend ecosystems with React and TypeScript, coupled with solid backend solutions.
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=pulse&color=0:161B22,100:36BCF7&height=280&section=header&text=Oleg%20Lapshin&fontSize=52&fontColor=161B22&fontAlignY=40&desc=Fullstack%20Software%20Engineer&descAlignY=57&descSize=18&descColor=161B22&animation=twinkling" alt="Oleg Lapshin" />
+
+  <br/>
+
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=50&lines=React+%C2%B7+TypeScript+%C2%B7+Go;Frontend+Architecture+%C2%B7+Backend+Engineering;Building+scalable+web+applications)](https://git.io/typing-svg)
+</div>
 
 ---
 
-## 🛠️ Tech Stack & Tools 
+<div align="center">
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-05998B?style=for-the-badge&logo=fastapi&logoColor=white)
-![Golang](https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=postman&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+*Turning complex requirements into structured, maintainable software.*
+
+I have spent the last 5 years working extensively with **React** and **TypeScript**, focusing on frontend architecture, application state, and complex web interfaces. My backend experience includes **Go**, **Node.js**, and **Python**. I enjoy working at the intersection of architecture and implementation — understanding how individual parts interact and making sure the whole system works as intended.
+
+</div>
+
+## Core Expertise
+
+- **Frontend Engineering** — building complex React applications, managing application state, designing reusable components, and optimizing performance.
+- **Backend Engineering** — developing APIs, concurrent services, and backend systems using Go, Node.js, NestJS, and FastAPI.
+- **Database & Infrastructure** — PostgreSQL, data modelling, Docker, and application infrastructure.
+- **System Design & FSD** — modular architecture, Feature-Sliced Design, separation of concerns, and maintainable codebases.
+
+## Toolbox
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,js,ts,nodejs,express,nestjs,go,py,fastapi,postgres,docker,html,css,sass,git,github&theme=dark&perline=9" alt="Technology Stack" />
+</p>
 
 ---
 
 ## 📊 GitHub Metrics & Insights
 
 
-![](./profile-summary-card-output/nord_dark/0-profile-details.svg)
-![](./profile-summary-card-output/nord_dark/1-repos-per-language.svg)
-![](./profile-summary-card-output/nord_dark/2-most-commit-language.svg)
-![](./profile-summary-card-output/nord_dark/3-stats.svg)
-![](./profile-summary-card-output/nord_dark/4-productive-time.svg)
-![Trophies](https://github-trophies.vercel.app/?username=aklyue&theme=nord&no-frame=false&no-bg=false&margin-w=4&cache_seconds=1800)
+<div align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aklyue&theme=nord_dark"
+    alt="GitHub Profile Details"
+    width="100%"
+  />
+</div>
 
 ---
 
 ## 📈 Contribution Dynamics
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=550&duration=4000&color=36BCF7&lines=Fullstack+Web+Development;Building+high-performance+architectures;TypeScript,+React,+Node.js,+Go;Designing+scalable+and+type-safe+systems
-)](https://git.io/typing-svg)
+<div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg?cache_seconds=1800)
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg?cache_seconds=1800" alt="Snake animation" />
+
+</div>
+
+---
 
 ---
 
 ## 📫 Contact
-- 📧 Email: olegglapshin@gmail.com
-- 🔗 LinkedIn: [aklyue](https://linkedin.com/in/aklyue)
-- 💬 Telegram: [@yukino_r](https://t.me/yukino_r)
+
+<div align="center">
+
+  <p>Find me on these platforms</p>
+
+  <a href="mailto:olegglapshin@gmail.com">
+    <img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=36BCF7" alt="Email" />
+  </a>
+  <a href="https://t.me/yukino_r">
+    <img src="https://img.shields.io/badge/Telegram-161B22?style=for-the-badge&logo=telegram&logoColor=36BCF7" alt="Telegram" />
+  </a>
+  <a href="https://linkedin.com/in/aklyue">
+    <img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzM2QkNGNyIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1VjloMy40MTR2MS41NjFoLjA0OWMuNDc2LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNhMi4wNjIgMi4wNjIgMCAxIDEgMC00LjEyNCAyLjA2MiAyLjA2MiAwIDAgMSAwIDQuMTI0ek03LjExOSAyMC40NTJIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4=" alt="LinkedIn" />
+  </a>
+  </a>
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:161B22&height=120&section=footer" alt="" />
+</div>
